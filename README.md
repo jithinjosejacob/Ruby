@@ -17,10 +17,6 @@ Install by using ```choco install ruby```
 ruby Section1/sec1_chall1.rb```
 ```
 
-```
-
-```
-
 https://github.com/sheesh19/full-day-ruby-workshop/blob/master/README.md
 https://drive.google.com/file/d/1SIhtfXXm-x-bvShKk2aMEtJjw7YASCJ_/view
 
